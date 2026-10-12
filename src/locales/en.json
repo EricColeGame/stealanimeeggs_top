@@ -43,22 +43,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the six-step core loop - earn, buy, hatch, place, steal, and defend - so your first eggs and your base both survive the opening hour."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Working Codes",
+          "description": "Find where new Steal Anime Eggs codes appear, how to redeem them step by step, and which free rewards to claim before they expire."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Best Eggs to Farm",
+          "description": "Compare Common to Mythic egg tiers, hatch odds, and base value so you know which eggs are worth buying in bulk and which to skip."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Steal Anime Eggs."
+          "title": "Steal Safely",
+          "description": "Scout targets, time your raid to a distracted lobby, grab one high-tier egg, and escape before the owner or their traps catch you."
         }
       ]
     },
@@ -66,265 +66,351 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Working Codes",
+        "Egg Tier List",
+        "Stealing Tips"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "The six-step core loop and first-hour setup that keeps new players from losing their best pull.",
+          "href": "/guide/steal-anime-eggs-beginner-guide"
         },
         {
           "badge": "Updated",
           "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "description": "Where working Steal Anime Eggs codes appear, how to redeem them, and what rewards to expect.",
+          "href": "/codes/steal-anime-eggs-codes"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "title": "Egg List",
+          "description": "Every egg type with rarity tier, hatch chance band, base value, and steal difficulty.",
+          "href": "/items/steal-anime-eggs-egg-list"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "title": "Egg Rarity Guide",
+          "description": "How Common through Mythic tiers work and what actually shifts your hatch odds.",
+          "href": "/items/steal-anime-eggs-egg-rarity"
         },
         {
           "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "title": "How Stealing Works",
+          "description": "Scout, grab, carry, and secure - the full steal loop plus the traps that stop it.",
+          "href": "/mechanics/steal-anime-eggs-stealing"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "title": "Trading Guide",
+          "description": "Swap duplicates for targeted upgrades with a safe, step-by-step trade process.",
+          "href": "/mechanics/steal-anime-eggs-trading"
+        },
+        {
+          "badge": "Updated",
+          "title": "Latest Update",
+          "description": "New egg rotations, rarity rebalances, steal tuning, and event changes in one breakdown.",
+          "href": "/updates/steal-anime-eggs-update"
         },
         {
           "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "title": "Tips and Tricks",
+          "description": "Offensive and defensive habits that protect your base and clean up your steal runs.",
+          "href": "/guide/steal-anime-eggs-tips"
         },
         {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Popular",
+          "title": "Progression Guide",
+          "description": "Early, mid, and late game roadmap for turning eggs into steady income.",
+          "href": "/guide/steal-anime-eggs-progression-guide"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Steal Anime Eggs?",
       "paragraphs": [
-        "Steal Anime Eggs is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Steal Anime Eggs is a Roblox anime egg-collecting simulator built around one addictive loop: earn income, buy eggs, hatch them for anime characters, place your best pulls on your base, and then steal eggs from every other player in the server while defending your own. It is free to play, and progress comes more from positioning and base discipline than from luck.",
+        "Every egg rolls through a rarity ladder that runs from Common and Uncommon up to Rare, Epic, Legendary, and Mythic or Secret. Rarer eggs hatch into stronger units and generate more passive income, but they also make your base a bigger target, so defense upgrades matter as much as your best pull. Codes, events, trading, and rebirth all feed back into the same loop, and our wiki breaks each system down with data tables and step-by-step walkthroughs."
       ],
       "stats": [
-        {
-          "label": "Developer",
-          "value": "Steal Anime Eggs"
-        },
         {
           "label": "Platform",
           "value": "Roblox"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Egg Stealing Simulator"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Core Loop",
+          "value": "Hatch / Steal / Defend"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Rarity Tiers",
+          "value": "Common - Mythic"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Top Targets",
+          "value": "Legendary Eggs"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Codes",
+          "value": "Free Rewards"
+        },
+        {
+          "label": "Cost",
+          "value": "Free to Play"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Steal Anime Eggs Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Master Steal Anime Eggs with working codes, complete egg lists, unit tier rankings, stealing and defense strategy, progression routes, and the latest update breakdowns.",
       "modules": [
         {
           "order": 1,
-          "name": "Steal Anime Eggs Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/steal-anime-eggs-codes",
-          "displayType": "code-box",
+          "name": "Steal Anime Eggs Beginner Guide",
+          "description": "This module explains the basic gameplay loop for new players, including stealing eggs, escaping enemies, hatching anime fighters, earning money, and upgrading your base. It helps beginners understand the fastest way to start progressing.",
+          "href": "/guide/steal-anime-eggs-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Join a quiet server and buy the cheapest egg so you have something placed fast"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Put your first pull on a display slot to start passive income immediately"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Save toward mid-tier eggs instead of re-rolling cheap ones"
+            },
+            {
+              "label": "4",
+              "detail": "Walk the map and memorize the steal routes and escape paths"
+            },
+            {
+              "label": "5",
+              "detail": "Buy a defensive upgrade before you show off any trophy egg"
+            },
+            {
+              "label": "6",
+              "detail": "Raid only when the lobby is distracted, then secure the egg at home"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/steal-anime-eggs-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Steal Anime Eggs Codes",
+          "description": "This module collects active reward codes, explains where players can find new codes, and shows how to redeem possible free rewards. It targets users searching for free boosts, currency, and event rewards.",
+          "href": "/codes/steal-anime-eggs-codes",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "CURRENCY",
+              "detail": "Free in-game cash that funds your next batch of egg purchases"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "LUCK BOOST",
+              "detail": "Temporary drop-rate boosts that improve your odds on rarer eggs"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "SPEED BOOST",
+              "detail": "Short movement boosts for faster steal runs and cleaner escapes"
+            },
+            {
+              "label": "EVENT EGG",
+              "detail": "Limited codes tied to updates, milestones, and holiday events"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/steal-anime-eggs-tier-list",
+          "name": "Steal Anime Eggs Anime Units Tier List",
+          "description": "This module ranks collected anime fighters by rarity, usefulness, and progression value. Players can compare which units are worth keeping, upgrading, or collecting.",
+          "href": "/characters/steal-anime-eggs-anime-characters",
           "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "S",
+              "detail": "Legendary and Mythic pulls - top raid targets and trade centerpieces"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "A",
+              "detail": "Epic units - strong income drivers and reliable base defenders"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "B",
+              "detail": "Rare units - solid mid-game earners and useful trade filler"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "C",
+              "detail": "Common and Uncommon units - early filler to replace quickly"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/steal-anime-eggs-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Steal Anime Eggs Eggs Guide",
+          "description": "This module covers different egg types, rarity systems, hatching mechanics, and collection strategies. It helps players understand which eggs to prioritize and how to complete their anime collection.",
+          "href": "/items/steal-anime-eggs-egg-list",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Common",
+              "detail": "Endless supply with the lowest value - use as early filler and never over-invest"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Rare",
+              "detail": "Your first real base anchor and a steady mid-game income source"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Epic",
+              "detail": "Strong earners and tempting steal targets once your base is defended"
+            },
+            {
+              "label": "Mythic",
+              "detail": "Extremely rare centerpieces and trade bait that the whole server wants"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/steal-anime-eggs-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Steal Anime Eggs Progression Guide",
+          "description": "This module explains the upgrade path from early game to advanced progression, including treadmill upgrades, speed training, base expansion, and unlocking new areas. It focuses on helping players optimize their growth.",
+          "href": "/guide/steal-anime-eggs-progression-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "1",
+              "detail": "Early game: stop chasing shiny eggs and build steady passive income"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "2",
+              "detail": "Buy mid-tier eggs in batches instead of re-rolling cheap pulls"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "3",
+              "detail": "Upgrade movement and capacity before luck so runs stay profitable"
+            },
+            {
+              "label": "4",
+              "detail": "Mid game: turn spare eggs into cash and reinvest it in defense"
+            },
+            {
+              "label": "5",
+              "detail": "Rebirth or prestige early - the compounding multiplier matters most"
+            },
+            {
+              "label": "6",
+              "detail": "Late game: trade duplicates for targeted high-tier upgrades"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/steal-anime-eggs-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Steal Anime Eggs Speed Guide",
+          "description": "This module explains how speed affects movement, exploration, and egg stealing success. It covers treadmill training and upgrade priorities for reaching higher areas faster.",
+          "href": "/progression/steal-anime-eggs-fastest",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Movement",
+              "detail": "Buy movement upgrades first so you reach and leave bases faster"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Routes",
+              "detail": "Sweep the map in one direction and ride the spawn rotation"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Timing",
+              "detail": "Raid when the lobby is distracted and escape before it reacts"
+            },
+            {
+              "label": "Capacity",
+              "detail": "Carry more eggs per run, then bank them before a chase starts"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Steal Anime Eggs Update Guide",
+          "description": "This module tracks major game updates, new worlds, new eggs, new fighters, and gameplay changes. It helps returning players quickly understand new content.",
+          "href": "/updates/steal-anime-eggs-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "New Eggs",
+              "detail": "Fresh eggs enter the pool while older ones are retired or re-weighted"
+            },
+            {
+              "label": "Rebalance",
+              "detail": "Drop weights and tier placements shift, so re-check your egg list"
+            },
+            {
+              "label": "Events",
+              "detail": "Limited-time events add exclusive eggs that may never return"
+            },
+            {
+              "label": "Patches",
+              "detail": "Steal cooldowns, defense tweaks, and quality-of-life fixes"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Steal Anime Eggs Tips and Tricks",
+          "description": "This module provides practical strategies for stealing eggs safely, earning cash efficiently, managing fighters, and improving overall gameplay performance. It targets players searching for optimization advice.",
+          "href": "/guide/steal-anime-eggs-tips",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Scout",
+              "detail": "Check several bases before you commit to a single steal target"
+            },
+            {
+              "label": "Exit Plan",
+              "detail": "Plan your escape route before you touch an egg"
+            },
+            {
+              "label": "Defense",
+              "detail": "Layer walls, locks, and traps so raids cost more than they earn"
+            },
+            {
+              "label": "Trading",
+              "detail": "Swap duplicates in safe trades instead of risking a raid"
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
+      "title": "Steal Anime Eggs FAQ",
       "description": "Quick answers to the most common questions about Steal Anime Eggs.",
       "items": [
         {
           "question": "What is Steal Anime Eggs?",
-          "answer": "Steal Anime Eggs is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Steal Anime Eggs is a free-to-play Roblox egg-collecting simulator. You earn income, buy and hatch anime-themed eggs, place your best pulls on your base, and steal eggs from other players while defending your own collection."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Is Steal Anime Eggs free to play?",
+          "answer": "Yes. The full earn, buy, hatch, place, steal, and defend loop is playable without spending. Paid items mainly speed up progress rather than unlocking the core game."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "What is the fastest way to progress in Steal Anime Eggs?",
+          "answer": "Place eggs early so passive income starts immediately, save toward mid-tier eggs instead of re-rolling cheap ones, and take short, low-risk steal runs when the server is distracted."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How do I stop other players from stealing my eggs in Steal Anime Eggs?",
+          "answer": "Invest in defensive upgrades, avoid leaving your base unattended for long stretches, and keep your most valuable eggs away from the entrance so raiders have to work for them."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Are there working Steal Anime Eggs codes?",
+          "answer": "Codes rotate constantly, so any static list goes stale quickly. Check the in-game announcement feed and the developer's official channels, then test each code yourself before it expires."
         }
       ]
     },
