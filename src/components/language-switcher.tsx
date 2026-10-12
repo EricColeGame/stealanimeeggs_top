@@ -12,22 +12,11 @@ import {
 } from "@/components/ui/dropdown-menu";
 
 const LOCALE_LABELS: Record<string, string> = {
-  en: "English",
-  es: "Español",
-  pt: "Português",
-  de: "Deutsch",
-  fr: "Français",
-  ja: "日本語",
-  zh: "简体中文",
-  ko: "한국어",
-  ru: "Русский",
-  it: "Italiano",
-  ar: "العربية",
-  th: "ไทย",
-  vi: "Tiếng Việt",
-  id: "Bahasa Indonesia",
-  tr: "Türkçe",
-};
+  "en": "English",
+  "es": "Español",
+  "pt": "Português",
+  "id": "Bahasa Indonesia",
+} satisfies Record<Locale, string>;
 
 /**
  * 语言切换器（下拉菜单版）：点击 Globe 图标展开所有语言列表
