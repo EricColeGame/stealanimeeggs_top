@@ -9,7 +9,42 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "codes": "Codes",
+    "items": "Items",
+    "mechanics": "Mechanics",
+    "characters": "Characters",
+    "progression": "Progression",
+    "updates": "Updates"
+  },
+  "guide": {
+    "overviewTitle": "Steal Anime Eggs Guide",
+    "overviewDescription": "Beginner walkthroughs, tips, strategy, and progression guides to help new players hatch, steal, and defend eggs in Steal Anime Eggs."
+  },
+  "codes": {
+    "overviewTitle": "Steal Anime Eggs Codes",
+    "overviewDescription": "All active and expired Steal Anime Eggs codes plus step-by-step instructions for redeeming free rewards in the Roblox egg-stealing simulator."
+  },
+  "items": {
+    "overviewTitle": "Steal Anime Eggs Eggs & Items",
+    "overviewDescription": "Full egg list, rarity tiers, best eggs, pets, and gamepasses explained for every Steal Anime Eggs collector."
+  },
+  "mechanics": {
+    "overviewTitle": "Steal Anime Eggs Game Mechanics",
+    "overviewDescription": "How hatching, stealing, mutations, trading, and events work in Steal Anime Eggs, explained with clear examples."
+  },
+  "characters": {
+    "overviewTitle": "Steal Anime Eggs Characters",
+    "overviewDescription": "Anime character eggs, unit breakdowns, and the Luffy and Naruto eggs that every Steal Anime Eggs player wants."
+  },
+  "progression": {
+    "overviewTitle": "Steal Anime Eggs Progression",
+    "overviewDescription": "Fastest leveling, money and coin farming, and upgrade priorities to speed up your Steal Anime Eggs grind."
+  },
+  "updates": {
+    "overviewTitle": "Steal Anime Eggs Updates",
+    "overviewDescription": "Patch notes, new update breakdowns, and release date info so you never miss a Steal Anime Eggs change."
   },
   "home": {
     "meta": {
@@ -421,7 +456,6 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -452,9 +486,9 @@
     "officialYoutube": "Official YouTube",
     "vvBuilder": "Egg Value Calculator",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "codes": "Codes",
+    "items": "Eggs & Items",
+    "mechanics": "Game Mechanics",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }

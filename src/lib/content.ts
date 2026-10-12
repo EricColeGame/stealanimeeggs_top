@@ -237,39 +237,56 @@ export interface NavGroup {
 
 // 分组标题映射：slug → 人类可读标题（默认英文）
 const GROUP_TITLES: Record<string, string> = {
-  bosses: "Bosses",
-  races: "Races",
-  maps: "Maps & Areas",
-  skills: "Skills",
-  codes: "Codes",
   guide: "Getting Started",
-  "tier-list": "Tier Lists",
+  codes: "Codes",
+  items: "Eggs & Items",
+  mechanics: "Game Mechanics",
+  characters: "Anime Characters",
+  progression: "Progression",
+  updates: "Updates",
 };
 
-// 日文分组标题映射
-const GROUP_TITLES_JA: Record<string, string> = {
-  bosses: "ボス",
-  races: "種族",
-  maps: "マップ & エリア",
-  skills: "スキル",
-  codes: "コード",
-  guide: "初心者ガイド",
-  "tier-list": "Tier List",
-};
-
-// locale → 分组标题映射
+// locale → 分组标题映射（侧边栏本地化标题）
 const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {
-  ja: GROUP_TITLES_JA,
+  es: {
+    guide: "Guía para Empezar",
+    codes: "Códigos",
+    items: "Huevos y Objetos",
+    mechanics: "Mecánicas",
+    characters: "Personajes Anime",
+    progression: "Progresión",
+    updates: "Actualizaciones",
+  },
+  pt: {
+    guide: "Guia para Iniciantes",
+    codes: "Códigos",
+    items: "Ovos e Itens",
+    mechanics: "Mecânicas",
+    characters: "Personagens de Anime",
+    progression: "Progressão",
+    updates: "Atualizações",
+  },
+  id: {
+    guide: "Panduan Pemula",
+    codes: "Kode",
+    items: "Telur & Item",
+    mechanics: "Mekanika",
+    characters: "Karakter Anime",
+    progression: "Progresi",
+    updates: "Pembaruan",
+  },
 };
 
 // locale → "Overview" 翻译
 const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
-  ja: "一覧",
+  es: "Resumen",
+  pt: "Visão Geral",
+  id: "Ringkasan",
 };
 
 // 分组排序顺序
 const GROUP_ORDER: string[] = [
-  "guide", "races", "bosses", "maps", "skills", "codes", "tier-list",
+  "guide", "codes", "items", "mechanics", "characters", "progression", "updates",
 ];
 
 /**
