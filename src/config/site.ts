@@ -30,7 +30,7 @@ export const siteConfig: SiteConfig = {
   heroVideoId: "QSA8L3lm9MI", // Steal Anime Eggs gameplay showcase
   social: {
     discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    youtube: "https://www.youtube.com/results?search_query=Steal+Anime+Eggs+Roblox",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
