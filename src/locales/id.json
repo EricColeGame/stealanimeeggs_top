@@ -1,1 +1,495 @@
-{}
+{
+  "site": {
+    "name": "Steal Anime Eggs Wiki",
+    "shortName": "Steal Anime Eggs",
+    "tagline": "Kode, Telur, Tier List & Panduan Progresi",
+    "description": "Panduan lengkap Steal Anime Eggs di Roblox! Jelajahi kode aktif, lokasi telur, unit anime, tier list, dan strategi progresi.",
+    "legalNotice": "Wiki penggemar tidak resmi. Dibuat oleh pemain, untuk pemain."
+  },
+  "nav": {
+    "home": "Beranda",
+    "menu": "Menu",
+    "toggleTheme": "Ganti tema",
+    "guide": "Panduan",
+    "codes": "Kode",
+    "items": "Item",
+    "mechanics": "Mekanik",
+    "characters": "Karakter",
+    "progression": "Progresi",
+    "updates": "Pembaruan"
+  },
+  "guide": {
+    "overviewTitle": "Panduan Steal Anime Eggs",
+    "overviewDescription": "Panduan pemula, tips, strategi, dan panduan progresi untuk membantu pemain baru menetas, mencuri, dan mempertahankan telur di Steal Anime Eggs."
+  },
+  "codes": {
+    "overviewTitle": "Kode Steal Anime Eggs",
+    "overviewDescription": "Semua kode Steal Anime Eggs yang aktif dan kedaluwarsa plus instruksi langkah demi langkah untuk menukarkan hadiah gratis di simulator pencurian telur Roblox."
+  },
+  "items": {
+    "overviewTitle": "Telur & Item Steal Anime Eggs",
+    "overviewDescription": "Daftar telur lengkap, tingkat kelangkaan, telur terbaik, pet, dan gamepass yang dijelaskan untuk setiap kolektor Steal Anime Eggs."
+  },
+  "mechanics": {
+    "overviewTitle": "Mekanik Game Steal Anime Eggs",
+    "overviewDescription": "Cara kerja penetasan, pencurian, mutasi, trading, dan event di Steal Anime Eggs, dijelaskan dengan contoh yang jelas."
+  },
+  "characters": {
+    "overviewTitle": "Karakter Steal Anime Eggs",
+    "overviewDescription": "Telur karakter anime, rincian unit, dan telur Luffy serta Naruto yang diinginkan setiap pemain Steal Anime Eggs."
+  },
+  "progression": {
+    "overviewTitle": "Progresi Steal Anime Eggs",
+    "overviewDescription": "Leveling tercepat, farming uang dan koin, serta prioritas upgrade untuk mempercepat progres Steal Anime Eggs kamu."
+  },
+  "updates": {
+    "overviewTitle": "Pembaruan Steal Anime Eggs",
+    "overviewDescription": "Catatan patch, rincian pembaruan baru, dan info tanggal rilis agar kamu tidak pernah melewatkan perubahan Steal Anime Eggs."
+  },
+  "home": {
+    "meta": {
+      "title": "Steal Anime Eggs Wiki - Kode, Telur & Panduan",
+      "description": "Steal Anime Eggs Wiki menyediakan kode Roblox, lokasi telur, tips mengoleksi, panduan progresi, dan pembaruan terbaru untuk membantu pemain menguasai simulator telur anime."
+    },
+    "hero": {
+      "eyebrow": "Simulator Pencurian Telur Anime",
+      "title": "Steal Anime Eggs Wiki",
+      "description": "Steal Anime Eggs adalah simulator koleksi Roblox di mana pemain mencuri, mengoleksi, dan menemukan telur bertema anime sambil maju melalui petualangan berburu telur yang kompetitif.",
+      "stats": [
+        "Kode Aktif",
+        "Lokasi Telur",
+        "Unit Anime",
+        "Panduan Progresi"
+      ],
+      "primaryCta": "Panduan Pemula",
+      "secondaryCta": "Tier List Telur",
+      "tertiaryCta": "Kode Aktif",
+      "videoLabel": "Media resmi"
+    },
+    "updates": {
+      "title": "Pembaruan Terbaru",
+      "browse": "Jelajahi Semua Panduan",
+      "viewAll": "Lihat Semua"
+    },
+    "start": {
+      "eyebrow": "Mulai di Sini",
+      "title": "Perjalanan Steal Anime Eggs Kamu",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Panduan Pemula",
+          "description": "Pelajari loop inti enam langkah - hasilkan, beli, tetas, pasang, curi, dan bertahan - agar telur pertama dan basismu tetap selamat di jam pertama."
+        },
+        {
+          "number": "2",
+          "title": "Kode Aktif",
+          "description": "Temukan tempat kode Steal Anime Eggs baru muncul, cara menukarkannya langkah demi langkah, dan hadiah gratis mana yang harus diklaim sebelum kedaluwarsa."
+        },
+        {
+          "number": "3",
+          "title": "Telur Terbaik untuk Farming",
+          "description": "Bandingkan tingkat telur dari Common hingga Mythic, peluang penetasan, dan nilai basis agar kamu tahu telur mana yang layak dibeli banyak dan mana yang dilewati."
+        },
+        {
+          "number": "4",
+          "title": "Mencuri dengan Aman",
+          "description": "Intai target, atur waktu raid saat lobby sedang lengah, ambil satu telur tingkat tinggi, dan kabur sebelum pemilik atau jebakannya menangkapmu."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Halaman Populer",
+      "title": "Sedang Tren",
+      "quickLinks": [
+        "Panduan Pemula",
+        "Kode Aktif",
+        "Tier List Telur",
+        "Tips Mencuri"
+      ],
+      "cards": [
+        {
+          "badge": "Pemula",
+          "title": "Panduan Pemula",
+          "description": "Loop inti enam langkah dan persiapan jam pertama yang mencegah pemain baru kehilangan pull terbaik mereka.",
+          "href": "/guide/steal-anime-eggs-beginner-guide"
+        },
+        {
+          "badge": "Diperbarui",
+          "title": "Kode Aktif",
+          "description": "Tempat kode Steal Anime Eggs aktif muncul, cara menukarkannya, dan hadiah apa yang bisa diharapkan.",
+          "href": "/codes/steal-anime-eggs-codes"
+        },
+        {
+          "badge": "Diperbarui",
+          "title": "Daftar Telur",
+          "description": "Setiap jenis telur dengan tingkat kelangkaan, rentang peluang penetasan, nilai basis, dan tingkat kesulitan pencurian.",
+          "href": "/items/steal-anime-eggs-egg-list"
+        },
+        {
+          "badge": "Populer",
+          "title": "Panduan Kelangkaan Telur",
+          "description": "Cara kerja tingkat Common hingga Mythic dan apa yang sebenarnya mengubah peluang penetasanmu.",
+          "href": "/items/steal-anime-eggs-egg-rarity"
+        },
+        {
+          "badge": "Baru",
+          "title": "Cara Kerja Mencuri",
+          "description": "Intai, ambil, bawa, dan amankan - loop pencurian lengkap plus jebakan yang menghentikannya.",
+          "href": "/mechanics/steal-anime-eggs-stealing"
+        },
+        {
+          "badge": "Populer",
+          "title": "Panduan Trading",
+          "description": "Tukar duplikat untuk upgrade yang ditargetkan dengan proses trading yang aman dan langkah demi langkah.",
+          "href": "/mechanics/steal-anime-eggs-trading"
+        },
+        {
+          "badge": "Diperbarui",
+          "title": "Pembaruan Terbaru",
+          "description": "Rotasi telur baru, penyeimbangan ulang kelangkaan, penyetelan pencurian, dan perubahan event dalam satu rincian.",
+          "href": "/updates/steal-anime-eggs-update"
+        },
+        {
+          "badge": "Populer",
+          "title": "Tips dan Trik",
+          "description": "Kebiasaan ofensif dan defensif yang melindungi basismu dan merapikan aksi pencurianmu.",
+          "href": "/guide/steal-anime-eggs-tips"
+        },
+        {
+          "badge": "Populer",
+          "title": "Panduan Progresi",
+          "description": "Peta jalan awal, tengah, dan akhir game untuk mengubah telur menjadi penghasilan tetap.",
+          "href": "/guide/steal-anime-eggs-progression-guide"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Apa Itu Steal Anime Eggs?",
+      "paragraphs": [
+        "Steal Anime Eggs adalah simulator koleksi telur anime Roblox yang dibangun di sekitar satu loop yang adiktif: hasilkan penghasilan, beli telur, tetaskan menjadi karakter anime, pasang pull terbaik di basismu, lalu curi telur dari semua pemain lain di server sambil mempertahankan milikmu. Gratis dimainkan, dan kemajuan lebih banyak datang dari posisi dan disiplin basis daripada keberuntungan.",
+        "Setiap telur melewati tangga kelangkaan yang membentang dari Common dan Uncommon hingga Rare, Epic, Legendary, dan Mythic atau Secret. Telur yang lebih langka menetas menjadi unit yang lebih kuat dan menghasilkan lebih banyak penghasilan pasif, tetapi juga membuat basismu jadi target yang lebih besar, jadi upgrade pertahanan sama pentingnya dengan pull terbaikmu. Kode, event, trading, dan rebirth semuanya mengalir kembali ke loop yang sama, dan wiki kami merinci setiap sistem dengan tabel data dan panduan langkah demi langkah."
+      ],
+      "stats": [
+        {
+          "label": "Platform",
+          "value": "Roblox"
+        },
+        {
+          "label": "Genre",
+          "value": "Simulator Pencurian Telur"
+        },
+        {
+          "label": "Loop Inti",
+          "value": "Tetas / Curi / Bertahan"
+        },
+        {
+          "label": "Tingkat Kelangkaan",
+          "value": "Common - Mythic"
+        },
+        {
+          "label": "Target Utama",
+          "value": "Telur Legendary"
+        },
+        {
+          "label": "Kode",
+          "value": "Hadiah Gratis"
+        },
+        {
+          "label": "Biaya",
+          "value": "Gratis Dimainkan"
+        }
+      ],
+      "cta": "Jelajahi Semua Panduan"
+    },
+    "explore": {
+      "title": "Jelajahi Wiki Steal Anime Eggs",
+      "description": "Kuasai Steal Anime Eggs dengan kode aktif, daftar telur lengkap, peringkat unit, strategi mencuri dan bertahan, rute progresi, dan rincian pembaruan terbaru.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Panduan Pemula Steal Anime Eggs",
+          "description": "Modul ini menjelaskan loop gameplay dasar untuk pemain baru, termasuk mencuri telur, kabur dari musuh, menetaskan petarung anime, menghasilkan uang, dan meng-upgrade basismu. Ini membantu pemula memahami cara tercepat untuk mulai maju.",
+          "href": "/guide/steal-anime-eggs-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Masuk ke server yang sepi dan beli telur termurah agar kamu punya sesuatu yang terpasang cepat"
+            },
+            {
+              "label": "2",
+              "detail": "Pasang pull pertamamu di slot display untuk memulai penghasilan pasif segera"
+            },
+            {
+              "label": "3",
+              "detail": "Menabung untuk telur tingkat menengah alih-alih reroll telur murah"
+            },
+            {
+              "label": "4",
+              "detail": "Jelajahi peta dan hafalkan rute pencurian serta jalur kabur"
+            },
+            {
+              "label": "5",
+              "detail": "Beli upgrade pertahanan sebelum memamerkan telur trofi apa pun"
+            },
+            {
+              "label": "6",
+              "detail": "Raid hanya saat lobby lengah, lalu amankan telur di rumah"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Kode Steal Anime Eggs",
+          "description": "Modul ini mengumpulkan kode hadiah aktif, menjelaskan tempat pemain bisa menemukan kode baru, dan menunjukkan cara menukarkan kemungkinan hadiah gratis. Sasaran utamanya adalah pengguna yang mencari boost, mata uang, dan hadiah event gratis.",
+          "href": "/codes/steal-anime-eggs-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "MATA UANG",
+              "detail": "Uang dalam game gratis yang mendanai pembelian telur berikutnya"
+            },
+            {
+              "label": "BOOST KEBERUNTUNGAN",
+              "detail": "Boost sementara tingkat drop yang meningkatkan peluangmu pada telur yang lebih langka"
+            },
+            {
+              "label": "BOOST KECEPATAN",
+              "detail": "Boost gerak singkat untuk pencurian lebih cepat dan kabur lebih bersih"
+            },
+            {
+              "label": "TELUR EVENT",
+              "detail": "Kode terbatas yang terkait dengan pembaruan, tonggak, dan event hari raya"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Tier List Unit Anime Steal Anime Eggs",
+          "description": "Modul ini memberi peringkat petarung anime yang dikoleksi berdasarkan kelangkaan, kegunaan, dan nilai progresi. Pemain dapat membandingkan unit mana yang layak disimpan, di-upgrade, atau dikoleksi.",
+          "href": "/characters/steal-anime-eggs-anime-characters",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Pull Legendary dan Mythic - target raid utama dan pusat trading"
+            },
+            {
+              "label": "A",
+              "detail": "Unit Epic - pendorong penghasilan kuat dan defender basis yang andal"
+            },
+            {
+              "label": "B",
+              "detail": "Unit Rare - penghasil solid di pertengahan game dan pengisi trading yang berguna"
+            },
+            {
+              "label": "C",
+              "detail": "Unit Common dan Uncommon - pengisi awal untuk cepat diganti"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Panduan Telur Steal Anime Eggs",
+          "description": "Modul ini mencakup berbagai jenis telur, sistem kelangkaan, mekanik penetasan, dan strategi koleksi. Ini membantu pemain memahami telur mana yang harus diprioritaskan dan cara melengkapi koleksi anime mereka.",
+          "href": "/items/steal-anime-eggs-egg-list",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Common",
+              "detail": "Pasokan tanpa habis dengan nilai terendah - pakai sebagai pengisi awal dan jangan pernah berinvestasi berlebihan"
+            },
+            {
+              "label": "Rare",
+              "detail": "Jangkar basis nyata pertamamu dan sumber penghasilan stabil di pertengahan game"
+            },
+            {
+              "label": "Epic",
+              "detail": "Penghasil kuat dan target pencurian yang menggoda setelah basismu bertahan"
+            },
+            {
+              "label": "Mythic",
+              "detail": "Pusat koleksi yang sangat langka dan umpan trading yang diinginkan seluruh server"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Panduan Progresi Steal Anime Eggs",
+          "description": "Modul ini menjelaskan jalur upgrade dari awal hingga progresi lanjutan, termasuk upgrade treadmill, latihan kecepatan, perluasan basis, dan membuka area baru. Fokusnya membantu pemain mengoptimalkan pertumbuhan mereka.",
+          "href": "/guide/steal-anime-eggs-progression-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Awal game: berhenti mengejar telur mengkilap dan bangun penghasilan pasif yang stabil"
+            },
+            {
+              "label": "2",
+              "detail": "Beli telur tingkat menengah dalam jumlah banyak alih-alih reroll pull murah"
+            },
+            {
+              "label": "3",
+              "detail": "Upgrade gerak dan kapasitas sebelum keberuntungan agar run tetap menguntungkan"
+            },
+            {
+              "label": "4",
+              "detail": "Pertengahan game: ubah telur sisa menjadi uang dan reinvestasikan ke pertahanan"
+            },
+            {
+              "label": "5",
+              "detail": "Rebirth atau prestige lebih awal - multiplier yang menumpuk paling penting"
+            },
+            {
+              "label": "6",
+              "detail": "Akhir game: tukar duplikat untuk upgrade tingkat tinggi yang ditargetkan"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Panduan Kecepatan Steal Anime Eggs",
+          "description": "Modul ini menjelaskan bagaimana kecepatan memengaruhi gerak, eksplorasi, dan keberhasilan mencuri telur. Ini mencakup latihan treadmill dan prioritas upgrade untuk mencapai area lebih tinggi lebih cepat.",
+          "href": "/progression/steal-anime-eggs-fastest",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Gerak",
+              "detail": "Beli upgrade gerak lebih dulu agar kamu mencapai dan meninggalkan basis lebih cepat"
+            },
+            {
+              "label": "Rute",
+              "detail": "Sapu peta dalam satu arah dan manfaatkan rotasi spawn"
+            },
+            {
+              "label": "Waktu",
+              "detail": "Raid saat lobby lengah dan kabur sebelum bereaksi"
+            },
+            {
+              "label": "Kapasitas",
+              "detail": "Bawa lebih banyak telur per run, lalu simpan sebelum pengejaran dimulai"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Panduan Pembaruan Steal Anime Eggs",
+          "description": "Modul ini melacak pembaruan game utama, dunia baru, telur baru, petarung baru, dan perubahan gameplay. Ini membantu pemain yang kembali memahami konten baru dengan cepat.",
+          "href": "/updates/steal-anime-eggs-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Telur Baru",
+              "detail": "Telur baru masuk ke pool sementara yang lama dipensiunkan atau diubah bobotnya"
+            },
+            {
+              "label": "Penyeimbangan Ulang",
+              "detail": "Bobot drop dan posisi tier bergeser, jadi periksa ulang daftar telurmu"
+            },
+            {
+              "label": "Event",
+              "detail": "Event waktu terbatas menambah telur eksklusif yang mungkin tidak pernah kembali"
+            },
+            {
+              "label": "Patch",
+              "detail": "Cooldown mencuri, penyesuaian pertahanan, dan perbaikan kualitas hidup"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Tips dan Trik Steal Anime Eggs",
+          "description": "Modul ini memberikan strategi praktis untuk mencuri telur dengan aman, menghasilkan uang secara efisien, mengelola petarung, dan meningkatkan performa gameplay secara keseluruhan. Sasaran utamanya adalah pemain yang mencari saran optimasi.",
+          "href": "/guide/steal-anime-eggs-tips",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Intai",
+              "detail": "Periksa beberapa basis sebelum berkomitmen pada satu target pencurian"
+            },
+            {
+              "label": "Rencana Kabur",
+              "detail": "Rencanakan rute kabur sebelum menyentuh telur"
+            },
+            {
+              "label": "Pertahanan",
+              "detail": "Susun dinding, kunci, dan jebakan agar raid lebih mahal daripada hasilnya"
+            },
+            {
+              "label": "Trading",
+              "detail": "Tukar duplikat dalam trading aman alih-alih mempertaruhkan raid"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "FAQ Steal Anime Eggs",
+      "description": "Jawaban cepat untuk pertanyaan paling umum tentang Steal Anime Eggs.",
+      "items": [
+        {
+          "question": "Apa itu Steal Anime Eggs?",
+          "answer": "Steal Anime Eggs adalah simulator koleksi telur Roblox yang gratis dimainkan. Kamu menghasilkan penghasilan, membeli dan menetaskan telur bertema anime, memasang pull terbaik di basismu, dan mencuri telur dari pemain lain sambil mempertahankan koleksimu sendiri."
+        },
+        {
+          "question": "Apakah Steal Anime Eggs gratis dimainkan?",
+          "answer": "Ya. Seluruh loop menghasilkan, membeli, menetas, memasang, mencuri, dan bertahan bisa dimainkan tanpa mengeluarkan uang. Item berbayar terutama mempercepat progres, bukan membuka game inti."
+        },
+        {
+          "question": "Apa cara tercepat untuk maju di Steal Anime Eggs?",
+          "answer": "Pasang telur lebih awal agar penghasilan pasif langsung dimulai, menabung untuk telur tingkat menengah alih-alih reroll telur murah, dan lakukan run pencurian singkat berisiko rendah saat server lengah."
+        },
+        {
+          "question": "Bagaimana cara mencegah pemain lain mencuri telurku di Steal Anime Eggs?",
+          "answer": "Investasikan pada upgrade pertahanan, hindari meninggalkan basis tanpa pengawasan lama, dan jauhkan telur paling berhargamu dari pintu masuk agar penyerang harus bekerja lebih keras."
+        },
+        {
+          "question": "Apakah ada kode Steal Anime Eggs yang aktif?",
+          "answer": "Kode berganti terus, jadi daftar statis apa pun cepat usang. Periksa feed pengumuman dalam game dan kanal resmi pengembang, lalu uji setiap kode sendiri sebelum kedaluwarsa."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Siap Menguasai Steal Anime Eggs?",
+      "description": "Dari pencurian telur pertamamu hingga melengkapi koleksi animemu, wiki komunitas kami siap membantu dengan panduan gratis dan terbaru.",
+      "primary": "Baca Panduan Pemula",
+      "secondary": "Main di Roblox"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Navigasi Wiki",
+    "activeCodes": "Kode Aktif",
+    "updated": "Diperbarui",
+    "viewAllCodes": "Lihat semua kode",
+    "playOnRoblox": "Main di Roblox",
+    "inThisSection": "Di bagian ini",
+    "tableOfContents": "Daftar Isi",
+    "nextSteps": "Langkah Selanjutnya",
+    "needHelp": "Butuh Bantuan?",
+    "relatedReading": "Bacaan Terkait",
+    "relatedGuides": "Panduan Terkait",
+    "readMore": "Baca selengkapnya",
+    "officialMedia": "Media resmi",
+    "home": "Beranda",
+    "noGuidesAvailable": "Belum ada panduan tersedia. Cek lagi nanti!"
+  },
+  "footer": {
+    "aboutTitle": "Steal Anime Eggs Wiki",
+    "about": "Steal Anime Eggs Wiki adalah pusat panduan independen buatan penggemar yang mencakup lokasi telur, unit anime, kode, tier list, dan pengetahuan progresi penting untuk pemain baru maupun veteran.",
+    "quickLinks": "Tautan Cepat",
+    "guides": "Panduan",
+    "legal": "Legal",
+    "copyright": "2026 Steal Anime Eggs Wiki. Tidak berafiliasi dengan Roblox atau pengembang Steal Anime Eggs.",
+    "description": "Simulator gratis pengumpulan & pencurian telur anime Roblox. Koleksi, tetaskan, dan tukar telur bertema anime.",
+    "playGame": "Mainkan Steal Anime Eggs",
+    "officialDiscord": "Discord Resmi",
+    "officialYoutube": "YouTube Resmi",
+    "vvBuilder": "Kalkulator Nilai Telur",
+    "beginnerGuide": "Panduan Pemula",
+    "codes": "Kode",
+    "items": "Telur & Item",
+    "mechanics": "Mekanik Game",
+    "privacyPolicy": "Kebijakan Privasi",
+    "termsOfService": "Ketentuan Layanan"
+  }
+}

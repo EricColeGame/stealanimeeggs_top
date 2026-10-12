@@ -1,1 +1,495 @@
-{}
+{
+  "site": {
+    "name": "Steal Anime Eggs Wiki",
+    "shortName": "Steal Anime Eggs",
+    "tagline": "Códigos, huevos, tier lists y guías de progresión",
+    "description": "¡Tu guía definitiva de Steal Anime Eggs en Roblox! Explora códigos activos, ubicaciones de huevos, unidades de anime, tier lists y estrategias de progresión.",
+    "legalNotice": "Wiki de fans no oficial. Hecha por jugadores, para jugadores."
+  },
+  "nav": {
+    "home": "Inicio",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema",
+    "guide": "Guía",
+    "codes": "Códigos",
+    "items": "Objetos",
+    "mechanics": "Mecánicas",
+    "characters": "Personajes",
+    "progression": "Progresión",
+    "updates": "Actualizaciones"
+  },
+  "guide": {
+    "overviewTitle": "Guía de Steal Anime Eggs",
+    "overviewDescription": "Guías para principiantes, consejos, estrategias y guías de progresión para ayudar a los nuevos jugadores a eclosionar, robar y defender huevos en Steal Anime Eggs."
+  },
+  "codes": {
+    "overviewTitle": "Códigos de Steal Anime Eggs",
+    "overviewDescription": "Todos los códigos activos y caducados de Steal Anime Eggs, además de instrucciones paso a paso para canjear recompensas gratis en el simulador de robo de huevos de Roblox."
+  },
+  "items": {
+    "overviewTitle": "Huevos y objetos de Steal Anime Eggs",
+    "overviewDescription": "Lista completa de huevos, niveles de rareza, mejores huevos, mascotas y pases de juego explicados para cada coleccionista de Steal Anime Eggs."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas de juego de Steal Anime Eggs",
+    "overviewDescription": "Cómo funcionan la eclosión, el robo, las mutaciones, el intercambio y los eventos en Steal Anime Eggs, explicados con ejemplos claros."
+  },
+  "characters": {
+    "overviewTitle": "Personajes de Steal Anime Eggs",
+    "overviewDescription": "Huevos de personajes de anime, análisis de unidades y los huevos de Luffy y Naruto que todo jugador de Steal Anime Eggs quiere."
+  },
+  "progression": {
+    "overviewTitle": "Progresión en Steal Anime Eggs",
+    "overviewDescription": "Subida de nivel más rápida, farmeo de dinero y monedas, y prioridades de mejora para acelerar tu avance en Steal Anime Eggs."
+  },
+  "updates": {
+    "overviewTitle": "Actualizaciones de Steal Anime Eggs",
+    "overviewDescription": "Notas del parche, análisis de nuevas actualizaciones e información sobre la fecha de lanzamiento para que nunca te pierdas un cambio de Steal Anime Eggs."
+  },
+  "home": {
+    "meta": {
+      "title": "Steal Anime Eggs Wiki - Códigos, huevos y guía",
+      "description": "Steal Anime Eggs Wiki ofrece códigos de Roblox, ubicaciones de huevos, consejos de colección, guías de progresión y las últimas actualizaciones para ayudar a los jugadores a dominar el simulador de huevos de anime."
+    },
+    "hero": {
+      "eyebrow": "Simulador de robo de huevos de anime",
+      "title": "Steal Anime Eggs Wiki",
+      "description": "Steal Anime Eggs es un simulador de colección de Roblox en el que los jugadores roban, coleccionan y descubren huevos con temática de anime mientras avanzan en una aventura competitiva de caza de huevos.",
+      "stats": [
+        "Códigos activos",
+        "Ubicaciones de huevos",
+        "Unidades de anime",
+        "Guías de progresión"
+      ],
+      "primaryCta": "Guía para principiantes",
+      "secondaryCta": "Tier list de huevos",
+      "tertiaryCta": "Códigos activos",
+      "videoLabel": "Medios oficiales"
+    },
+    "updates": {
+      "title": "Últimas actualizaciones",
+      "browse": "Ver todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu aventura en Steal Anime Eggs",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Aprende el bucle central de seis pasos —gana, compra, eclosiona, coloca, roba y defiende— para que tus primeros huevos y tu base sobrevivan a la primera hora."
+        },
+        {
+          "number": "2",
+          "title": "Códigos activos",
+          "description": "Descubre dónde aparecen los nuevos códigos de Steal Anime Eggs, cómo canjearlos paso a paso y qué recompensas gratis reclamar antes de que caduquen."
+        },
+        {
+          "number": "3",
+          "title": "Mejores huevos para farmear",
+          "description": "Compara los niveles de huevo de Común a Mítico, las probabilidades de eclosión y el valor en la base para saber qué huevos conviene comprar al por mayor y cuáles evitar."
+        },
+        {
+          "number": "4",
+          "title": "Roba con seguridad",
+          "description": "Explora objetivos, sincroniza tu asalto con un lobby distraído, toma un huevo de alto nivel y escapa antes de que el dueño o sus trampas te atrapen."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Tendencias ahora",
+      "quickLinks": [
+        "Guía para principiantes",
+        "Códigos activos",
+        "Tier list de huevos",
+        "Consejos de robo"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para principiantes",
+          "description": "El bucle central de seis pasos y la configuración de la primera hora que evita que los nuevos jugadores pierdan su mejor tirada.",
+          "href": "/guide/steal-anime-eggs-beginner-guide"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Códigos activos",
+          "description": "Dónde aparecen los códigos activos de Steal Anime Eggs, cómo canjearlos y qué recompensas esperar.",
+          "href": "/codes/steal-anime-eggs-codes"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Lista de huevos",
+          "description": "Todos los tipos de huevo con su nivel de rareza, rango de probabilidad de eclosión, valor en la base y dificultad de robo.",
+          "href": "/items/steal-anime-eggs-egg-list"
+        },
+        {
+          "badge": "Popular",
+          "title": "Guía de rareza de huevos",
+          "description": "Cómo funcionan los niveles de Común a Mítico y qué influye realmente en tus probabilidades de eclosión.",
+          "href": "/items/steal-anime-eggs-egg-rarity"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Cómo funciona el robo",
+          "description": "Explora, agarra, carga y asegura: el bucle completo de robo y las trampas que lo detienen.",
+          "href": "/mechanics/steal-anime-eggs-stealing"
+        },
+        {
+          "badge": "Popular",
+          "title": "Guía de intercambio",
+          "description": "Cambia duplicados por mejoras específicas con un proceso de intercambio seguro y paso a paso.",
+          "href": "/mechanics/steal-anime-eggs-trading"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Última actualización",
+          "description": "Nuevas rotaciones de huevos, reequilibrios de rareza, ajustes de robo y cambios de eventos en un solo análisis.",
+          "href": "/updates/steal-anime-eggs-update"
+        },
+        {
+          "badge": "Popular",
+          "title": "Consejos y trucos",
+          "description": "Hábitos ofensivos y defensivos que protegen tu base y mejoran tus robos.",
+          "href": "/guide/steal-anime-eggs-tips"
+        },
+        {
+          "badge": "Popular",
+          "title": "Guía de progresión",
+          "description": "Hoja de ruta para el juego temprano, medio y tardío que convierte los huevos en ingresos constantes.",
+          "href": "/guide/steal-anime-eggs-progression-guide"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Steal Anime Eggs?",
+      "paragraphs": [
+        "Steal Anime Eggs es un simulador de colección de huevos de anime de Roblox construido en torno a un bucle adictivo: gana ingresos, compra huevos, eclosiónalos para obtener personajes de anime, coloca tus mejores tiradas en tu base y luego roba huevos a todos los demás jugadores del servidor mientras defiendes la tuya. Es gratis y el progreso depende más de la posición y la disciplina con la base que de la suerte.",
+        "Cada huevo pasa por una escala de rareza que va de Común y Poco común a Raro, Épico, Legendario y Mítico o Secreto. Los huevos más raros eclosionan en unidades más fuertes y generan más ingresos pasivos, pero también convierten tu base en un objetivo más atractivo, así que las mejoras de defensa importan tanto como tu mejor tirada. Los códigos, eventos, intercambios y renacimientos alimentan el mismo bucle, y nuestra wiki desglosa cada sistema con tablas de datos y guías paso a paso."
+      ],
+      "stats": [
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Género",
+          "value": "Simulador de robo de huevos"
+        },
+        {
+          "label": "Bucle central",
+          "value": "Eclosionar / Robar / Defender"
+        },
+        {
+          "label": "Niveles de rareza",
+          "value": "Común - Mítico"
+        },
+        {
+          "label": "Objetivos principales",
+          "value": "Huevos legendarios"
+        },
+        {
+          "label": "Códigos",
+          "value": "Recompensas gratis"
+        },
+        {
+          "label": "Coste",
+          "value": "Gratis"
+        }
+      ],
+      "cta": "Explora todas las guías"
+    },
+    "explore": {
+      "title": "Explora la wiki de Steal Anime Eggs",
+      "description": "Domina Steal Anime Eggs con códigos activos, listas completas de huevos, clasificaciones de unidades, estrategias de robo y defensa, rutas de progresión y los últimos análisis de actualizaciones.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía para principiantes de Steal Anime Eggs",
+          "description": "Este módulo explica el bucle de juego básico para nuevos jugadores, incluyendo robar huevos, escapar de enemigos, eclosionar luchadores de anime, ganar dinero y mejorar tu base. Ayuda a los principiantes a entender la forma más rápida de empezar a progresar.",
+          "href": "/guide/steal-anime-eggs-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Únete a un servidor tranquilo y compra el huevo más barato para tener algo colocado rápido"
+            },
+            {
+              "label": "2",
+              "detail": "Pon tu primera tirada en una ranura de exhibición para empezar a generar ingresos pasivos de inmediato"
+            },
+            {
+              "label": "3",
+              "detail": "Ahorra para huevos de nivel medio en lugar de volver a tirar los baratos"
+            },
+            {
+              "label": "4",
+              "detail": "Recorre el mapa y memoriza las rutas de robo y las vías de escape"
+            },
+            {
+              "label": "5",
+              "detail": "Compra una mejora defensiva antes de presumir de cualquier huevo trofeo"
+            },
+            {
+              "label": "6",
+              "detail": "Asalta solo cuando el lobby esté distraído y luego asegura el huevo en casa"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Códigos de Steal Anime Eggs",
+          "description": "Este módulo recopila códigos de recompensa activos, explica dónde pueden encontrar los jugadores nuevos códigos y muestra cómo canjear posibles recompensas gratis. Está dirigido a usuarios que buscan mejoras, moneda y recompensas de eventos gratis.",
+          "href": "/codes/steal-anime-eggs-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "MONEDA",
+              "detail": "Dinero gratis del juego que financia tu siguiente lote de compras de huevos"
+            },
+            {
+              "label": "MEJORA DE SUERTE",
+              "detail": "Mejoras temporales de la tasa de aparición que aumentan tus probabilidades con huevos más raros"
+            },
+            {
+              "label": "MEJORA DE VELOCIDAD",
+              "detail": "Mejoras breves de movimiento para robos más rápidos y escapes más limpios"
+            },
+            {
+              "label": "HUEVO DE EVENTO",
+              "detail": "Códigos limitados vinculados a actualizaciones, hitos y eventos festivos"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Tier list de unidades de anime de Steal Anime Eggs",
+          "description": "Este módulo clasifica a los luchadores de anime coleccionados por rareza, utilidad y valor de progresión. Los jugadores pueden comparar qué unidades vale la pena conservar, mejorar o coleccionar.",
+          "href": "/characters/steal-anime-eggs-anime-characters",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Tiradas legendarias y míticas: principales objetivos de asalto y piezas centrales de intercambio"
+            },
+            {
+              "label": "A",
+              "detail": "Unidades épicas: fuertes generadoras de ingresos y defensoras fiables de la base"
+            },
+            {
+              "label": "B",
+              "detail": "Unidades raras: sólidas generadoras de ingresos de mitad de partida y relleno útil para intercambios"
+            },
+            {
+              "label": "C",
+              "detail": "Unidades comunes y poco comunes: relleno temprano para reemplazar rápido"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guía de huevos de Steal Anime Eggs",
+          "description": "Este módulo cubre los distintos tipos de huevos, los sistemas de rareza, las mecánicas de eclosión y las estrategias de colección. Ayuda a los jugadores a entender qué huevos priorizar y cómo completar su colección de anime.",
+          "href": "/items/steal-anime-eggs-egg-list",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Común",
+              "detail": "Suministro infinito con el valor más bajo: úsalo como relleno temprano y nunca inviertas demasiado"
+            },
+            {
+              "label": "Raro",
+              "detail": "Tu primer ancla real de base y una fuente constante de ingresos de mitad de partida"
+            },
+            {
+              "label": "Épico",
+              "detail": "Fuertes generadores de ingresos y tentadores objetivos de robo cuando tu base está defendida"
+            },
+            {
+              "label": "Mítico",
+              "detail": "Piezas centrales extremadamente raras y cebo de intercambio que todo el servidor quiere"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guía de progresión de Steal Anime Eggs",
+          "description": "Este módulo explica la ruta de mejora desde el juego temprano hasta la progresión avanzada, incluyendo mejoras de cinta de correr, entrenamiento de velocidad, expansión de la base y desbloqueo de nuevas zonas. Se centra en ayudar a los jugadores a optimizar su crecimiento.",
+          "href": "/guide/steal-anime-eggs-progression-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Juego temprano: deja de perseguir huevos brillantes y construye ingresos pasivos constantes"
+            },
+            {
+              "label": "2",
+              "detail": "Compra huevos de nivel medio por lotes en lugar de volver a tirar los baratos"
+            },
+            {
+              "label": "3",
+              "detail": "Mejora el movimiento y la capacidad antes que la suerte para que las partidas sigan siendo rentables"
+            },
+            {
+              "label": "4",
+              "detail": "Mitad de partida: convierte los huevos sobrantes en dinero y reinviértelo en defensa"
+            },
+            {
+              "label": "5",
+              "detail": "Renace o haz prestigio pronto: el multiplicador acumulativo es lo que más importa"
+            },
+            {
+              "label": "6",
+              "detail": "Juego tardío: intercambia duplicados por mejoras específicas de alto nivel"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guía de velocidad de Steal Anime Eggs",
+          "description": "Este módulo explica cómo la velocidad afecta el movimiento, la exploración y el éxito al robar huevos. Cubre el entrenamiento en la cinta y las prioridades de mejora para llegar más rápido a zonas superiores.",
+          "href": "/progression/steal-anime-eggs-fastest",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Movimiento",
+              "detail": "Compra primero las mejoras de movimiento para llegar y salir de las bases más rápido"
+            },
+            {
+              "label": "Rutas",
+              "detail": "Recorre el mapa en una dirección y aprovecha la rotación de aparición"
+            },
+            {
+              "label": "Momento",
+              "detail": "Asalta cuando el lobby esté distraído y escapa antes de que reaccione"
+            },
+            {
+              "label": "Capacidad",
+              "detail": "Lleva más huevos por partida y guárdalos antes de que empiece una persecución"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Guía de actualizaciones de Steal Anime Eggs",
+          "description": "Este módulo sigue las principales actualizaciones del juego, nuevos mundos, nuevos huevos, nuevos luchadores y cambios de jugabilidad. Ayuda a los jugadores que regresan a entender rápidamente el contenido nuevo.",
+          "href": "/updates/steal-anime-eggs-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Huevos nuevos",
+              "detail": "Entran huevos nuevos al grupo mientras los antiguos se retiran o cambian de peso"
+            },
+            {
+              "label": "Reequilibrio",
+              "detail": "Los pesos de aparición y las posiciones en los niveles cambian, así que revisa de nuevo tu lista de huevos"
+            },
+            {
+              "label": "Eventos",
+              "detail": "Los eventos por tiempo limitado añaden huevos exclusivos que quizá nunca vuelvan"
+            },
+            {
+              "label": "Parches",
+              "detail": "Enfriamientos de robo, ajustes de defensa y correcciones de calidad de vida"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Consejos y trucos de Steal Anime Eggs",
+          "description": "Este módulo ofrece estrategias prácticas para robar huevos con seguridad, ganar dinero de forma eficiente, gestionar luchadores y mejorar el rendimiento general del juego. Está dirigido a jugadores que buscan consejos de optimización.",
+          "href": "/guide/steal-anime-eggs-tips",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Explora",
+              "detail": "Revisa varias bases antes de comprometerte con un único objetivo de robo"
+            },
+            {
+              "label": "Plan de salida",
+              "detail": "Planifica tu ruta de escape antes de tocar un huevo"
+            },
+            {
+              "label": "Defensa",
+              "detail": "Superpón muros, cerraduras y trampas para que los asaltos cuesten más de lo que rinden"
+            },
+            {
+              "label": "Intercambio",
+              "detail": "Cambia duplicados en intercambios seguros en lugar de arriesgarte a un asalto"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes de Steal Anime Eggs",
+      "description": "Respuestas rápidas a las preguntas más comunes sobre Steal Anime Eggs.",
+      "items": [
+        {
+          "question": "¿Qué es Steal Anime Eggs?",
+          "answer": "Steal Anime Eggs es un simulador de colección de huevos de Roblox gratuito. Ganas ingresos, compras y eclosionas huevos con temática de anime, colocas tus mejores tiradas en tu base y robas huevos a otros jugadores mientras defiendes tu propia colección."
+        },
+        {
+          "question": "¿Steal Anime Eggs es gratis?",
+          "answer": "Sí. El bucle completo de ganar, comprar, eclosionar, colocar, robar y defender se puede jugar sin gastar. Los objetos de pago principalmente aceleran el progreso en lugar de desbloquear el juego principal."
+        },
+        {
+          "question": "¿Cuál es la forma más rápida de progresar en Steal Anime Eggs?",
+          "answer": "Coloca huevos pronto para que los ingresos pasivos empiecen de inmediato, ahorra para huevos de nivel medio en lugar de volver a tirar los baratos y haz robos cortos y de bajo riesgo cuando el servidor esté distraído."
+        },
+        {
+          "question": "¿Cómo evito que otros jugadores me roben los huevos en Steal Anime Eggs?",
+          "answer": "Invierte en mejoras defensivas, evita dejar tu base desatendida durante mucho tiempo y mantén tus huevos más valiosos lejos de la entrada para que los asaltantes tengan que esforzarse."
+        },
+        {
+          "question": "¿Hay códigos activos de Steal Anime Eggs?",
+          "answer": "Los códigos rotan constantemente, así que cualquier lista estática queda obsoleta rápido. Consulta el feed de anuncios del juego y los canales oficiales de los desarrolladores, y luego prueba cada código tú mismo antes de que caduque."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para dominar Steal Anime Eggs?",
+      "description": "Desde tu primer robo de huevo hasta completar tu colección de anime, nuestra wiki comunitaria te cubre con guías gratis y actualizadas.",
+      "primary": "Lee la guía para principiantes",
+      "secondary": "Juega en Roblox"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la wiki",
+    "activeCodes": "Códigos activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "playOnRoblox": "Juega en Roblox",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Índice",
+    "nextSteps": "Próximos pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lectura relacionada",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Aún no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Steal Anime Eggs Wiki",
+    "about": "Steal Anime Eggs Wiki es un centro de guías independiente creado por fans que cubre ubicaciones de huevos, unidades de anime, códigos, tier lists y conocimientos esenciales de progresión tanto para jugadores nuevos como veteranos.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Steal Anime Eggs Wiki. Sin afiliación con Roblox ni con los desarrolladores de Steal Anime Eggs.",
+    "description": "Simulador gratuito de colección y robo de huevos de anime de Roblox. Colecciona, eclosiona e intercambia huevos con temática de anime.",
+    "playGame": "Juega a Steal Anime Eggs",
+    "officialDiscord": "Discord oficial",
+    "officialYoutube": "YouTube oficial",
+    "vvBuilder": "Calculadora de valor de huevos",
+    "beginnerGuide": "Guía para principiantes",
+    "codes": "Códigos",
+    "items": "Huevos y objetos",
+    "mechanics": "Mecánicas de juego",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos de servicio"
+  }
+}
